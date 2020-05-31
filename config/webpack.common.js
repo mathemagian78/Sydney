@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const { InjectManifest } = require('workbox-webpack-plugin');
 
 // TODO: Replace your game name here
-const myGameName = 'Thunder';
+const myGameName = 'Sydney';
 
 module.exports = {
   entry: ['./src/scripts/game.ts'],

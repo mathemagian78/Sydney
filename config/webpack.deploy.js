@@ -24,7 +24,7 @@ module.exports = (env) => {
         });
 
     // Get game name from Manifest
-    let gameUrl = "Thunder";;
+    let gameUrl = "Sydney";;
 
     // Update the index file for the dist directory
     // Directory
