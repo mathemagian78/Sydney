@@ -28,19 +28,19 @@ export default class PreloadScene extends Phaser.Scene {
     this.load.bitmapFont("snowLetters", "assets/snowyFont.png", "assets/snowyFont.fnt");
 
     //add Thunder sprite
-    this.load.spritesheet("Bun", "assets/Thunder2.png", {
+    this.load.spritesheet("Bun", "assets/Sydney.png", {
       frameWidth: 32,
       frameHeight: 32
     });
 
     //add Celery sprite
-    this.load.spritesheet("Fox", "assets/Celery.png", {
+    this.load.spritesheet("Fox", "assets/GrossFish.png", {
       frameWidth: 32,
       frameHeight: 32
     });
 
     //add carrot image
-    this.load.image("carrot", "assets/carrot.png");
+    this.load.image("carrot", "assets/Hershey.png");
 
     //add egg sprite
     this.load.spritesheet("egg", "assets/screenshot_1.png",{

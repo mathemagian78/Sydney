@@ -113,7 +113,7 @@ export default class MainScene extends Phaser.Scene {
     //bunny hop left animation
     this.anims.create({
       key: "bunHopL",
-      frames: this.anims.generateFrameNumbers("Bun", { start: 6, end: 9 }),
+      frames: this.anims.generateFrameNumbers("Bun", { start: 2, end: 3 }),
       frameRate: 10,
       repeat: -1
     });
@@ -121,7 +121,7 @@ export default class MainScene extends Phaser.Scene {
     //bunny hop right animation
     this.anims.create({
       key: "bunHopR",
-      frames: this.anims.generateFrameNumbers("Bun", { start: 2, end: 5 }),
+      frames: this.anims.generateFrameNumbers("Bun", { start: 0, end: 1 }),
       frameRate: 10,
       repeat: -1
     });
@@ -145,7 +145,7 @@ export default class MainScene extends Phaser.Scene {
     //fox running animation
     this.anims.create({
       key: "foxRun",
-      frames: this.anims.generateFrameNumbers("Fox", {start: 0, end: 1}),
+      frames: this.anims.generateFrameNumbers("Fox", {start: 0, end: 3}),
       frameRate: 10,
       repeat: -1
     });

@@ -35,9 +35,10 @@ export default class dogRoom extends Phaser.Scene {
         this.puppy.setScale(5, 5);
         this.puppy.play("bunHopSL");
 
-        this.puppy.setInteractive({ useHandCursor: true })
+        /*this.puppy.setInteractive({ useHandCursor: true })
         .on('pointerover', () => this.wiggling())
         .on('pointerout', () => this.up())
+        */
         ;
 
 
