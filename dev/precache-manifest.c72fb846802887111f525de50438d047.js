@@ -4,6 +4,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sydney/devassets/Celery.png"
   },
   {
+    "revision": "ee17391930bf89e0f95dd07ab209b1b7",
+    "url": "/Sydney/devassets/GrossFish.png"
+  },
+  {
+    "revision": "10066971475b0881c906efe5d8e312cd",
+    "url": "/Sydney/devassets/Hershey.png"
+  },
+  {
     "revision": "2c564f11a5d4c315138ee0cb9474792a",
     "url": "/Sydney/devassets/MyLogicPuzzle-Solved.png"
   },
@@ -18,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9ed6cb8feb446c130e2cb805065b5b7a",
     "url": "/Sydney/devassets/Skull.png"
+  },
+  {
+    "revision": "90779956e247301acee39283e7ea775c",
+    "url": "/Sydney/devassets/Sydney.png"
   },
   {
     "revision": "9a2588a1a1a339966b3675117ecc0913",
@@ -144,15 +156,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sydney/devassets/win.wav"
   },
   {
-    "revision": "a66507c80c238a10bf65",
-    "url": "/Sydney/devgen.main.9ecff4044fb8b466c295.bundle.js"
+    "revision": "3a004ff4bf8b3cf44bec",
+    "url": "/Sydney/devgen.main.7003adfb260b944a9b31.bundle.js"
   },
   {
     "revision": "b2512ad1dc1074ce2bf5",
     "url": "/Sydney/devgen.vendors.ed464eb967a0780a06d8.bundle.js"
   },
   {
-    "revision": "a67b2ad284dda4d3579a288ef39af6fc",
+    "revision": "fb5ab96c591eb05113cb2dc71ca09d4d",
     "url": "/Sydney/devindex.html"
   },
   {
