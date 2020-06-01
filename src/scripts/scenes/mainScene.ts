@@ -188,19 +188,19 @@ export default class MainScene extends Phaser.Scene {
 
     //set up carrot 1
     this.food = this.add.sprite(250, 250, "carrot");
-    this.food.setScale(0.25);
+    this.food.setScale(1);
     this.physics.add.existing(this.food, false);
     this.food.body.setSize(40, 40, 0, 5);
     
     //set up carrot 2
     this.food2 = this.add.sprite(250, 250, "carrot");
-    this.food2.setScale(0.25);
+    this.food2.setScale(1);
     this.physics.add.existing(this.food2, false);
     this.food2.body.setSize(40, 40, 0, 5);
 
     //set up carrot 3
     this.food3 = this.add.sprite(250, 250, "carrot");
-    this.food3.setScale(0.25);
+    this.food3.setScale(1);
     this.physics.add.existing(this.food3, false);
     this.food3.body.setSize(40, 40, 0, 5);
 
